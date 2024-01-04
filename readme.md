@@ -1,7 +1,7 @@
 ## Airbnb New York Overview   
 <img width="980" height="460" src="https://github.com/MateusMalvezzi/New_York_Airbnb/blob/main/image_gif/NY_Airbnb.png"> <br><br>
 Projeto de dashboard devolvido com **Qlik** utilizando os dados do Airbnb para identificar
-  - Os imóveis mais alugados no último ano.
+  - Imóveis mais alugados no último ano.
   - Média de valor pago por aluguel.
   - Modelo de contratação (Quarto privado, quarto compartilhado e apartamento/casa inteiro).
   - Bairros com maiores frequências de aluguéis.
@@ -18,3 +18,9 @@ Um diferencial do **Qlik**, é que não é simples fazer o compartilhamento publ
 
 Com esta apresentação, é possível alinhar de forma precisa os motivos pelos quais alguns bairros têm poucos aluguéis na temporada. Podemos analisar fatores como preço, localização, segurança e, se possível, alinhar com o proprietário para que o imóvel possa voltar a ser alugado de forma regular.
 <br><br>
+
+### Ferramentas e linguagens utilizadas
+<div style="display: inline_block">
+    <img align="center" alt="Qlik" height="40" width="40" src="https://github.com/MateusMalvezzi/New_York_Airbnb/blob/main/image_gif/qlik-sense-logo.svg">
+    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/MateusMalvezzi/Sales_Overview/blob/main/BackgroundAndColors/logo%20sql.png">
+</div>
